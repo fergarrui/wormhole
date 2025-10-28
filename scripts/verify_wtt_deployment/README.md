@@ -1,4 +1,4 @@
-# Verify TokenBridge deployment
+# Verify WTT deployment
 
 Can be used to check that the on-chain configuration of a new EVM WTT deployment is correct.
 Useful when reviewing token bridge governance documents.
